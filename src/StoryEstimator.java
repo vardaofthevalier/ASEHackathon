@@ -38,6 +38,8 @@ public class StoryEstimator {
 		 * 	4) Classify remaining data to determine estimates
 		 * 	5) Compare estimates with true completion times
 		 * */
+		
+		System.out.println("Hello GitHub!");
 	}
 
 }
